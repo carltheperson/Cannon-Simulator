@@ -1,7 +1,7 @@
 ![](GamePlay.gif)
 # Cannon Simulator
 
-A simple Java game made with the Java-Swing Framework, where you shoot colorful bouncy cannonballs. You control the cannon using your mouse, which can change things like angle and size. There is no real objective in the game, other that to have fun (:
+A simple Java game made with the Java-Swing Framework, where you shoot colorful bouncy cannonballs. You control the cannon using your mouse, which can change things like angle and size. There is no real objective in the game, other than to have fun (:
 
 ## How to Run
 
